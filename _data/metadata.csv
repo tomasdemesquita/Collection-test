@@ -1,0 +1,3 @@
+objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,image/jpeg,test001.jpg,title image 1,"Equivalent to ""description"" column from Google Maps",10.0278778,45.1390877,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,title image 2,,,,,,,,,,,,,,,
